@@ -1,0 +1,7 @@
+fp.cfg
+fp.ini
+fp.dsk
+*.bak
+*.o
+*.ppu
+*.a
