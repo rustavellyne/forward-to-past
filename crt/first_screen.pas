@@ -9,4 +9,8 @@ Begin
     TextBackGround(LightRed); ClrScr;
     Window(41, 13, 80, 25);
     TextBackGround(Green); ClrScr;
+    repeat until keypressed;
+    window(1, 1, 80, 25);
+    textBackground(black);
+    clrscr;
 End.
